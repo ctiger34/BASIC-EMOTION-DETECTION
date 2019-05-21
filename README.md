@@ -52,7 +52,7 @@ we have used Fer dataset
 
 
 # Credits
-This work is done by [this](https://github.com/omar178/Emotion-recognition.git). great work we just added small simple things.
+This work is done by [this](https://github.com/omar178/Emotion-recognition.git) guy great work we just added small simple things.
 
 
 
