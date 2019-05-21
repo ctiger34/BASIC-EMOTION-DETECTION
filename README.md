@@ -1,3 +1,3 @@
 # FACE-DETECTOR
-Basic real time video face detection python code for school project
-testing
+Basic real time video emotion face recognition python code for school project
+
