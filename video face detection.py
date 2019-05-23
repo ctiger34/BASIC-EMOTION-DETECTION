@@ -1,6 +1,6 @@
 import cv2
 
-face_cascade= cv2.CascadeClassifier('C:\\Users\\hp\\PycharmProjects\\untitled3\\venv\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_default.xml')
+face_cascade= cv2.CascadeClassifier('haarcascade_files\\haarcascade_frontalface_default.xml')
 vid = cv2.VideoCapture(0)
 while True:
     frame1 , frame2 = vid.read()
