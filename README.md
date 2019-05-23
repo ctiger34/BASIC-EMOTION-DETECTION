@@ -11,13 +11,15 @@ Basic real time video emotion face recognition python code for school project
 
 4.[Dataset](#p4)
 
+5.[Credits](#p5)
+
 
 
 
 
 # Description:
 
-this is a school project for future class this programm will be able to detect human face emotions
+this is a school project for future class this program will be able to detect human face emotions
 
 ## What does Emotion Recognition mean?
 
@@ -46,13 +48,13 @@ python real_time_video.py
 
 # Dataset:
 
-we have used Fer dataset
+we have used Fer2013 dataset
 
 -fer2013 emotion classification test accuracy: 66%
 
 
 # Credits
-This work is done by [this](https://github.com/omar178/Emotion-recognition.git) guy great work we just added small simple things.
+This work is done by [this](https://github.com/omar178/Emotion-recognition.git) guy, great work we just added small simple things.
 
 
 
